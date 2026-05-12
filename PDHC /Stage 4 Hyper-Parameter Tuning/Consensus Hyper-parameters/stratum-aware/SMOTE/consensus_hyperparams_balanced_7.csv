@@ -1,7 +1,0 @@
-classifier,clf__C,clf__C__support_pct,clf__l1_ratio,clf__l1_ratio__support_pct,clf__var_smoothing,clf__var_smoothing__support_pct,clf__n_neighbors,clf__n_neighbors__support_pct,clf__weights,clf__weights__support_pct,clf__gamma,clf__gamma__support_pct,clf__estimator__C,clf__estimator__C__support_pct,clf__n_features_to_select,clf__n_features_to_select__support_pct
-ElasticNet,1,55.6,0.1,55.6,,,,,,,,,,,,
-GaussianNB,,,,,1e-11,100.0,,,,,,,,,,
-kNN,,,,,,,15,25.9,uniform,74.1,,,,,,
-mSVM-Linear,1,48.1,,,,,,,,,,,,,,
-mSVM-RBF,1,77.8,,,,,,,,,0.1,55.6,,,,
-mSVM-RFE,,,,,,,,,,,,,1,51.9,7,40.7
